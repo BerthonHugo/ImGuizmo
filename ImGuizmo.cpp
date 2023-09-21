@@ -637,10 +637,10 @@ namespace IMGUIZMO_NAMESPACE
    Style::Style()
    {
       // default values
-      TranslationLineThickness   = 3.0f;
+      TranslationLineThickness   = 6.0f;
       TranslationLineArrowSize   = 6.0f;
-      RotationLineThickness      = 2.0f;
-      RotationOuterLineThickness = 3.0f;
+      RotationLineThickness      = 6.0f;
+      RotationOuterLineThickness = 6.0f;
       ScaleLineThickness         = 3.0f;
       ScaleLineCircleSize        = 6.0f;
       HatchedAxisLineThickness   = 6.0f;
